@@ -1,0 +1,33 @@
+.alert {
+  padding: 15px;
+  border: 1px solid #d6e9c6;
+  border-radius: 4px;
+  color: #3c763d;
+  background-color: #dff0d8;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td,
+th {
+  border: 1px solid black;
+  padding: 3px;
+  text-align: center;
+}
+
+th {
+  font-weight: bold;
+  background-color: #e6e6e6;
+}
+
+.hour {
+  color: red;
+}
+.min {
+  color: green;
+}
+.sec {
+  color: blue;
+}
